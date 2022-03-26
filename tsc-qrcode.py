@@ -1,7 +1,6 @@
 import streamlit as st
 from slugify import slugify
 import pyqrcode
-import png
 from pyqrcode import QRCode
 from PIL import Image
 
